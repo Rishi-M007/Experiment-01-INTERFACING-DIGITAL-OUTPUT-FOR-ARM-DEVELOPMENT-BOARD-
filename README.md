@@ -185,8 +185,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![OUTPUT](./pmc1.jpg)
-![OUTPUT](./pmc2.jpg)
+![OUTPUT](./pcm1.jpg)
+![OUTPUT](./pcm2.jpg)
  
  
  
